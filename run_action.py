@@ -1,0 +1,1 @@
+run_action_recognition(source=0, flip=False, use_popup=False, skip_first_frames=0)

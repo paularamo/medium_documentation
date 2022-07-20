@@ -1,0 +1,2 @@
+video_file = "https://archive.org/serve/ISSVideoResourceLifeOnStation720p/ISS%20Video%20Resource_LifeOnStation_720p.mp4"
+run_action_recognition(source=video_file, flip=False, use_popup=False, skip_first_frames=600)
